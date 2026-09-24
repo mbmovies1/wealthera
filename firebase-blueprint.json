@@ -1,0 +1,102 @@
+{
+  "$schema": "https://firebase.google.com/schemas/firestore/blueprint/v1.json",
+  "collections": [
+    {
+      "name": "users",
+      "description": "Registered users with profile, balance, referral information and earning claim history",
+      "fields": {
+        "id": { "type": "string" },
+        "username": { "type": "string" },
+        "fullName": { "type": "string" },
+        "email": { "type": "string" },
+        "phone": { "type": "string" },
+        "balance": { "type": "number" },
+        "lockedBalance": { "type": "number" },
+        "role": { "type": "string" },
+        "referredBy": { "type": "string" },
+        "referralCode": { "type": "string" },
+        "status": { "type": "string" },
+        "lastEarningClaimAt": { "type": "string" },
+        "createdAt": { "type": "string" },
+        "updatedAt": { "type": "string" }
+      }
+    },
+    {
+      "name": "deposits",
+      "description": "User deposit requests submitted for admin review",
+      "fields": {
+        "id": { "type": "string" },
+        "userId": { "type": "string" },
+        "username": { "type": "string" },
+        "methodId": { "type": "string" },
+        "methodTitle": { "type": "string" },
+        "amountKwd": { "type": "number" },
+        "amountPkr": { "type": "number" },
+        "transactionId": { "type": "string" },
+        "senderAccount": { "type": "string" },
+        "status": { "type": "string" },
+        "createdAt": { "type": "string" }
+      }
+    },
+    {
+      "name": "withdrawals",
+      "description": "User withdrawal requests submitted for admin review",
+      "fields": {
+        "id": { "type": "string" },
+        "userId": { "type": "string" },
+        "username": { "type": "string" },
+        "amountKwd": { "type": "number" },
+        "amountPkr": { "type": "number" },
+        "feeKwd": { "type": "number" },
+        "netKwd": { "type": "number" },
+        "type": { "type": "string" },
+        "bankOrWalletName": { "type": "string" },
+        "accountTitle": { "type": "string" },
+        "accountNumber": { "type": "string" },
+        "status": { "type": "string" },
+        "createdAt": { "type": "string" }
+      }
+    },
+    {
+      "name": "investments",
+      "description": "Active and completed user plan investments",
+      "fields": {
+        "id": { "type": "string" },
+        "userId": { "type": "string" },
+        "planId": { "type": "string" },
+        "planTitle": { "type": "string" },
+        "amountInvestedKwd": { "type": "number" },
+        "dailyProfitKwd": { "type": "number" },
+        "durationDays": { "type": "number" },
+        "claimedDays": { "type": "number" },
+        "lastClaimDate": { "type": "string" },
+        "status": { "type": "string" },
+        "startDate": { "type": "string" }
+      }
+    },
+    {
+      "name": "transactions",
+      "description": "Financial ledger transactions including deposits, withdrawals, earnings, and commissions",
+      "fields": {
+        "id": { "type": "string" },
+        "userId": { "type": "string" },
+        "type": { "type": "string" },
+        "amountKwd": { "type": "number" },
+        "description": { "type": "string" },
+        "status": { "type": "string" },
+        "createdAt": { "type": "string" }
+      }
+    },
+    {
+      "name": "app_settings",
+      "description": "Global application configuration including plans, payment numbers, and general settings",
+      "fields": {
+        "id": { "type": "string" },
+        "plans": { "type": "array" },
+        "depositMethods": { "type": "array" },
+        "general": { "type": "object" },
+        "updatedAt": { "type": "string" }
+      }
+    }
+  ]
+}

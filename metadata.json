@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix Remix Remix Remix Remix Remix Remix Remix Remix Remix WEALTHERA",
+  "description": "WEALTHERA is a premier financial and investment management platform featuring real-time global synchronization, multi-currency KWD exchange, secure deposits and withdrawals, structured investment plans, automated profit administration, and an advanced Super Admin control suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

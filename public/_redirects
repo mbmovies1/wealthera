@@ -1,0 +1,4 @@
+# Netlify Redirects for WEALTHERA
+/api/*  https://ais-pre-2owzzxqc7mlfhotkq2u2au-638798183282.asia-southeast1.run.app/api/:splat  200!
+/*      /index.html                                                                               200
+

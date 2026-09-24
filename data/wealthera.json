@@ -1,0 +1,2234 @@
+{
+  "admin": {
+    "id": "admin-master",
+    "username": "admin",
+    "role": "super_admin",
+    "salt": "wealthera_admin_salt",
+    "passwordHash": "afaf9a10fe67fda91b05bc5654a3e76cacffd472d4aafba030a114d616ffd549bdb64e107aa3ce39647c49e49c2ba2c2cc29f35d3222271d58f8f3216e31fbe2"
+  },
+  "settings": {
+    "currency": "KWD",
+    "currencySymbol": "ك.د",
+    "depositRatePkr": 911,
+    "withdrawalRatePkr": 911,
+    "minDepositKwd": 30,
+    "maxDepositKwd": 10000,
+    "minWithdrawalKwd": 1,
+    "maxWithdrawalKwd": 5000,
+    "withdrawalFeePercent": 0,
+    "referralCommissionPercent": 10,
+    "defaultInvestmentDuration": 45,
+    "referralCommissionMode": "plan_activation",
+    "telegramUrl": "",
+    "telegramGroupUrl": "",
+    "whatsappUrl": "",
+    "supportEmail": "support@wealthera.com",
+    "whatsappNumber": "",
+    "supportPhone": "",
+    "jazzcashTitle": "WEALTHERA OFFICIAL",
+    "easypaisaNumber": "",
+    "usdtAddress": "TWealtheraTRC20SecurityDeposit7799xyz",
+    "updatedAt": "2026-09-24T04:28:11.494Z",
+    "easypaisaTitle": "",
+    "usdtTitle": "WEALTHERA Liquidity Vault",
+    "jazzcashNumber": "4242423423"
+  },
+  "users": [
+    {
+      "id": "usr-1789366474203-2ou5",
+      "username": "Abdullah",
+      "fullName": "Abdullah",
+      "email": "abdullah@gmail.com",
+      "phone": "030384899975",
+      "balance": 0,
+      "referredBy": null,
+      "referralCode": "Abdullah",
+      "status": "active",
+      "failedLoginAttempts": 0,
+      "createdAt": "2026-09-14T06:14:34.203Z",
+      "salt": "9b91468a73cb24488960fb13feafba1a",
+      "passwordHash": "b6c64100f6c9a116948ea493e992ce67f91efc92a6fcdaf7a983dcc4d061e4d6ae67b9ef1196f2eb386f91efe2e8a73328f413da6fefd7efd89e3c8e6c0ae1ea",
+      "updatedAt": "2026-09-16T06:47:13.098Z",
+      "lastLoginAt": "2026-09-16T06:47:13.098Z"
+    },
+    {
+      "id": "usr-1789384998926-wspn",
+      "username": "abdullah143",
+      "fullName": "Abdullah",
+      "email": "whyabdullah143@gmail.com",
+      "phone": "03049333409",
+      "balance": 0,
+      "referredBy": null,
+      "referralCode": "abdullah143",
+      "status": "active",
+      "failedLoginAttempts": 0,
+      "createdAt": "2026-09-14T11:23:18.926Z",
+      "salt": "92b4504dee2f25c5ad54b13fa9c04691",
+      "passwordHash": "578edfb49b3caa78906e89714ec189a76b57d25049df70880b5c1ba5dee2833bf712d1adafd758515b7bb21aa915ed4abf3f5f48389f171dc28849741e03e0d9"
+    },
+    {
+      "id": "usr-1789571857076-8fyj",
+      "username": "alia1",
+      "fullName": "alia",
+      "name": "alia",
+      "email": "alia2@gmail.com",
+      "phone": "03524587412",
+      "mobile": "03524587412",
+      "balance": 0,
+      "lockedBalance": 0,
+      "role": "user",
+      "referredBy": null,
+      "referralCode": "alia1",
+      "status": "active",
+      "failedLoginAttempts": 0,
+      "createdAt": "2026-09-16T15:17:37.076Z",
+      "updatedAt": "2026-09-16T15:17:37.076Z",
+      "lastLoginAt": null,
+      "salt": "67eabdf0248921bd55b80bd571a6b9ab",
+      "passwordHash": "83a12c86ebc008366689f02ad989fce7198c58db6c1accd3da4fcccea6aaa14f7f0f66d66287d94fd9bf479cc802d3cf389137bb6e865cc5b8da858465b2ff90"
+    },
+    {
+      "id": "usr-1789784906835-efh6",
+      "username": "subhan1",
+      "fullName": "Subhan",
+      "email": "rohantabish00@gmail.com",
+      "phone": "03058325412",
+      "mobile": "03058325412",
+      "balance": 0,
+      "lockedBalance": 0,
+      "role": "user",
+      "referredBy": null,
+      "referralCode": "subhan1",
+      "status": "active",
+      "failedLoginAttempts": 0,
+      "createdAt": "2026-09-19T02:28:26.836Z",
+      "updatedAt": "2026-09-19T02:28:26.836Z",
+      "lastLoginAt": null,
+      "lastEarningClaimAt": null,
+      "salt": "836f68520f3fa261a4ebf4a259a4283f",
+      "passwordHash": "923bb85c4b21fccc0d72c2fb7029ddf9eec9a68e43b68a0ccc8cbcdaa9cede7873d4f2d89fccfb6fea33d9dbf74afe4decc025b7ee14888d78a2f3332c42d1a4"
+    },
+    {
+      "id": "usr-1790223976645-v1ms",
+      "username": "liveuser77",
+      "fullName": "Live User 77",
+      "name": "Live User 77",
+      "email": "live77@test.com",
+      "phone": "03001234567",
+      "mobile": "03001234567",
+      "balance": 0,
+      "lockedBalance": 0,
+      "role": "user",
+      "referredBy": null,
+      "referralCode": "liveuser77",
+      "status": "active",
+      "failedLoginAttempts": 0,
+      "createdAt": "2026-09-24T04:26:16.645Z",
+      "updatedAt": "2026-09-24T04:26:16.645Z",
+      "lastLoginAt": null,
+      "salt": "933a36a729375141a29e4cf8b243fd82",
+      "passwordHash": "72cb4fbfbaa30eec2f9ac97f74d4def36026f114932efec910f79eda0478cb30fca71fd3da8f58a676d65ba48c216dd5bee935d212d6caeccce8ba8b53fb6a12"
+    }
+  ],
+  "plans": [
+    {
+      "dailyRatePercent": 4,
+      "status": "active",
+      "dailyProfit": 1.2,
+      "durationDays": 45,
+      "name": "Starter Yield Plan",
+      "id": "plan-starter",
+      "description": "Standard entry tier portfolio yielding 4.0% daily passive returns for 45 calendar days.",
+      "amount": 30,
+      "totalProfit": 54
+    },
+    {
+      "dailyProfit": 3.38,
+      "status": "active",
+      "dailyRatePercent": 4.5,
+      "name": "Silver Growth Plan",
+      "id": "plan-silver",
+      "totalProfit": 151.88,
+      "durationDays": 45,
+      "amount": 75,
+      "description": "Enhanced growth tier with 4.5% daily yield distribution."
+    },
+    {
+      "id": "plan-gold",
+      "amount": 150,
+      "name": "Gold Wealth Accelerator",
+      "durationDays": 45,
+      "dailyProfit": 7.5,
+      "description": "Accelerated wealth building tier offering 5.0% guaranteed daily returns.",
+      "status": "active",
+      "totalProfit": 337.5,
+      "dailyRatePercent": 5
+    },
+    {
+      "status": "active",
+      "totalProfit": 742.5,
+      "id": "plan-platinum",
+      "description": "High-tier institutional fund providing 5.5% daily returns.",
+      "name": "Platinum Prestige Plan",
+      "dailyProfit": 16.5,
+      "amount": 300,
+      "dailyRatePercent": 5.5,
+      "durationDays": 45
+    },
+    {
+      "amount": 500,
+      "dailyRatePercent": 6,
+      "id": "plan-elite",
+      "dailyProfit": 30,
+      "status": "active",
+      "name": "Elite Diamond Fund",
+      "description": "Executive portfolio tier offering maximum 6.0% daily dividend returns.",
+      "durationDays": 45,
+      "totalProfit": 1350
+    }
+  ],
+  "userInvestments": [],
+  "depositMethods": [
+    {
+      "accountTitle": "WEALTHERA OFFICIAL",
+      "id": "dep-jazzcash",
+      "requiredFields": [
+        "Transaction ID (TID)",
+        "Payment Proof Screenshot"
+      ],
+      "accountNumber": "030848974665",
+      "enabled": true,
+      "name": "JazzCash",
+      "minDeposit": 30,
+      "instructions": "Transfer PKR via JazzCash app or *786# to the official account. Provide the 12-digit TID receipt."
+    },
+    {
+      "enabled": true,
+      "instructions": "Send equivalent USDT on TRC20 network. Wait for 1 confirmation and paste TxHash.",
+      "accountNumber": "TWealtheraTRC20SecurityDeposit7799xyz",
+      "minDeposit": 30,
+      "name": "USDT (TRC20)",
+      "requiredFields": [
+        "Transaction Hash (TxID)"
+      ],
+      "accountTitle": "WEALTHERA Liquidity Vault",
+      "id": "dep-usdt"
+    }
+  ],
+  "depositRequests": [
+    {
+      "id": "dep-1789784945723",
+      "methodTitle": "JazzCash",
+      "senderAccount": "4242423423",
+      "updatedAt": "2026-09-19T02:29:06.957Z",
+      "transactionId": "92625",
+      "userId": "usr-1789784906835-efh6",
+      "status": "pending",
+      "username": "subhan1",
+      "createdAt": "2026-09-19T02:29:05.723Z",
+      "methodId": "dep-jazzcash",
+      "amountKwd": 30,
+      "amountPkr": 27330,
+      "amount": 30
+    },
+    {
+      "id": "dep-1789711434445",
+      "transactionId": "Tfvc",
+      "username": "abdullah143",
+      "amountKwd": 30,
+      "approvedBy": "admin",
+      "senderAccount": "03001234567",
+      "status": "approved",
+      "userId": "usr-1789384998926-wspn",
+      "amount": 30,
+      "methodTitle": "JazzCash",
+      "approvedAt": "2026-09-18T06:04:14.579Z",
+      "createdAt": "2026-09-18T06:03:54.445Z",
+      "methodId": "dep-jazzcash",
+      "amountPkr": 27330,
+      "updatedAt": "2026-09-18T06:04:14.579Z"
+    }
+  ],
+  "withdrawalNetworks": [
+    {
+      "fee": 0,
+      "enabled": true,
+      "name": "TRC20",
+      "id": "net-trc20"
+    },
+    {
+      "id": "net-bsc",
+      "name": "BSC (BEP20)",
+      "fee": 0,
+      "enabled": true
+    },
+    {
+      "fee": 0,
+      "enabled": true,
+      "name": "Solana",
+      "id": "net-solana"
+    }
+  ],
+  "withdrawalRequests": [
+    {
+      "id": "wd-1789785025462",
+      "updatedAt": "2026-09-19T02:30:26.014Z",
+      "status": "pending",
+      "userId": "usr-1789784906835-efh6",
+      "username": "subhan1",
+      "feeKwd": 0,
+      "walletAddress": "",
+      "type": "Cash/PKR",
+      "accountNumber": "8262828",
+      "amountPkr": 911,
+      "amount": 1,
+      "amountKwd": 1,
+      "bankOrWalletName": "JazzCash",
+      "accountTitle": "Ndudgzh",
+      "createdAt": "2026-09-19T02:30:25.462Z",
+      "network": "",
+      "netKwd": 1
+    },
+    {
+      "id": "wd-1789711567842",
+      "createdAt": "2026-09-18T06:06:07.842Z",
+      "network": "",
+      "walletAddress": "",
+      "amountPkr": 911,
+      "updatedAt": "2026-09-18T06:06:15.329Z",
+      "status": "pending",
+      "netKwd": 1,
+      "accountNumber": "Eyud",
+      "username": "abdullah143",
+      "bankOrWalletName": "JazzCash",
+      "feeKwd": 0,
+      "type": "Cash/PKR",
+      "userId": "usr-1789384998926-wspn",
+      "amount": 1,
+      "amountKwd": 1,
+      "accountTitle": "Hd ga"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "tx-1789534971952",
+      "userId": "usr-1789366474203-2ou5",
+      "username": "Abdullah",
+      "type": "balance_deduct",
+      "amount": 30,
+      "currency": "KWD",
+      "status": "completed",
+      "referenceId": "BAL-ADJ-1789534971952",
+      "description": "Admin deducted 30.00 ك.د: Reset test deposit",
+      "createdAt": "2026-09-16T05:02:51.952Z"
+    },
+    {
+      "id": "tx-1789534948015",
+      "userId": "usr-1789366474203-2ou5",
+      "username": "Abdullah",
+      "type": "deposit",
+      "amount": 30,
+      "currency": "KWD",
+      "status": "completed",
+      "referenceId": "TRX-TEST-9988",
+      "description": "Easypaisa deposit submission (30.00 ك.د / 27,330 PKR)",
+      "createdAt": "2026-09-16T05:02:28.015Z"
+    }
+  ],
+  "notifications": [
+    {
+      "userId": "usr-1790223976645-v1ms",
+      "title": "Welcome to WEALTHERA",
+      "message": "Greetings Live User 77! Your wealth account is active. Deposit funds to start earning daily dividends.",
+      "type": "info",
+      "id": "notif-1790223976646-5hq",
+      "read": false,
+      "createdAt": "2026-09-24T04:26:16.646Z"
+    },
+    {
+      "userId": "usr-1789571857076-8fyj",
+      "title": "Welcome to WEALTHERA",
+      "message": "Greetings alia! Your wealth account is active. Deposit funds to start earning daily dividends.",
+      "type": "info",
+      "id": "notif-1789571857077-yf8",
+      "read": false,
+      "createdAt": "2026-09-16T15:17:37.077Z"
+    },
+    {
+      "userId": "usr-1789366474203-2ou5",
+      "title": "Security: Password Reset Code",
+      "message": "Your password reset code is 861402. It is valid for 15 minutes. If you did not request this, please disregard.",
+      "type": "warning",
+      "id": "notif-1789541228986-pf7",
+      "read": false,
+      "createdAt": "2026-09-16T06:47:08.986Z"
+    },
+    {
+      "userId": "usr-1789366474203-2ou5",
+      "title": "Balance Adjusted",
+      "message": "Your balance was debited by 30.00 ك.د. Reason: Reset test deposit",
+      "type": "financial",
+      "id": "notif-1789534971952-n3n",
+      "read": false,
+      "createdAt": "2026-09-16T05:02:51.952Z"
+    },
+    {
+      "userId": "usr-1789366474203-2ou5",
+      "title": "Deposit Approved",
+      "message": "Your deposit of 30.00 ك.د has been approved and added to your balance.",
+      "type": "success",
+      "id": "notif-1789534961161-bb0",
+      "read": false,
+      "createdAt": "2026-09-16T05:02:41.161Z"
+    },
+    {
+      "userId": "usr-1789366474203-2ou5",
+      "title": "Deposit Request Submitted",
+      "message": "Your deposit of 30.00 ك.د via Easypaisa (TID: TRX-TEST-9988) is pending admin verification.",
+      "type": "info",
+      "id": "notif-1789534948030-aqz",
+      "read": false,
+      "createdAt": "2026-09-16T05:02:28.030Z"
+    },
+    {
+      "userId": "usr-1789531670516-r21u",
+      "title": "Welcome to WEALTHERA",
+      "message": "Greetings Test User 1! Your wealth account is active. Deposit funds to start earning daily dividends.",
+      "type": "info",
+      "id": "notif-1789531670517-ndy",
+      "read": false,
+      "createdAt": "2026-09-16T04:07:50.517Z"
+    },
+    {
+      "id": "notif-init-abdullah",
+      "userId": "usr-1789366474203-2ou5",
+      "title": "Welcome to WEALTHERA",
+      "message": "Greetings @Abdullah! Your wealth account is active. Deposit funds to start earning daily dividends.",
+      "type": "info",
+      "read": false,
+      "createdAt": "2026-09-14T06:14:34.203Z"
+    },
+    {
+      "id": "notif-init-abdullah143",
+      "userId": "usr-1789384998926-wspn",
+      "title": "Welcome to WEALTHERA",
+      "message": "Greetings @abdullah143! Your wealth account is active. Deposit funds to start earning daily dividends.",
+      "type": "info",
+      "read": false,
+      "createdAt": "2026-09-14T11:23:18.926Z"
+    }
+  ],
+  "supportLinks": [
+    {
+      "title": "WhatsApp VIP Support",
+      "link": "",
+      "enabled": false,
+      "type": "whatsapp",
+      "id": "supp-whatsapp",
+      "value": ""
+    },
+    {
+      "id": "supp-1789572069644",
+      "type": "email",
+      "enabled": true,
+      "title": "Email",
+      "link": "mailto:support@wealthera.com",
+      "value": "support@wealthera.com",
+      "order": 2,
+      "badge": "24/7 Fast Response"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "aud-1790223976646-wgydx",
+      "admin_id": "system",
+      "admin": "system",
+      "action": "User Registered",
+      "target_user_id": "liveuser77",
+      "affectedUser": "liveuser77",
+      "reason": "New registration from live77@test.com / 03001234567",
+      "status": "success",
+      "referenceId": "usr-1790223976645-v1ms",
+      "metadata": {
+        "reason": "New registration from live77@test.com / 03001234567",
+        "referenceId": "usr-1790223976645-v1ms"
+      },
+      "timestamp": "2026-09-24T04:26:16.646Z"
+    },
+    {
+      "id": "aud-1789784101341-a7t16",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "User Deleted",
+      "target_user_id": "testliveuser1",
+      "affectedUser": "testliveuser1",
+      "reason": "Admin deleted user account (testliveuser1@gmail.com / 03001234567)",
+      "status": "success",
+      "referenceId": "usr-1789784092263-8b09",
+      "metadata": {
+        "reason": "Admin deleted user account (testliveuser1@gmail.com / 03001234567)",
+        "referenceId": "usr-1789784092263-8b09"
+      },
+      "timestamp": "2026-09-19T02:15:01.341Z"
+    },
+    {
+      "id": "aud-1789784092265-acgcr",
+      "admin_id": "system",
+      "admin": "system",
+      "action": "User Registered",
+      "target_user_id": "testliveuser1",
+      "affectedUser": "testliveuser1",
+      "reason": "New registration from testliveuser1@gmail.com / 03001234567",
+      "status": "success",
+      "referenceId": "usr-1789784092263-8b09",
+      "metadata": {
+        "reason": "New registration from testliveuser1@gmail.com / 03001234567",
+        "referenceId": "usr-1789784092263-8b09"
+      },
+      "timestamp": "2026-09-19T02:14:52.265Z"
+    },
+    {
+      "id": "aud-1789639915031-03qwr",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "User Profile Updated by Admin",
+      "target_user_id": "Abdullah",
+      "affectedUser": "Abdullah",
+      "reason": "Administrative update of user credentials, phone, email, balance or status",
+      "status": "success",
+      "referenceId": "usr-1789366474203-2ou5",
+      "metadata": {
+        "reason": "Administrative update of user credentials, phone, email, balance or status",
+        "referenceId": "usr-1789366474203-2ou5"
+      },
+      "timestamp": "2026-09-17T10:11:55.031Z"
+    },
+    {
+      "id": "aud-1789639915015-df90i",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "User Profile Updated by Admin",
+      "target_user_id": "Abdullah",
+      "affectedUser": "Abdullah",
+      "reason": "Administrative update of user credentials, phone, email, balance or status",
+      "status": "success",
+      "referenceId": "usr-1789366474203-2ou5",
+      "metadata": {
+        "reason": "Administrative update of user credentials, phone, email, balance or status",
+        "referenceId": "usr-1789366474203-2ou5"
+      },
+      "timestamp": "2026-09-17T10:11:55.015Z"
+    },
+    {
+      "id": "aud-1789639895099-8982o",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "Investment Plan Updated",
+      "target_user_id": null,
+      "afterValue": "Starter Yield Plan (30 KWD, 1.2 KWD/day)",
+      "reason": "Admin updated plan configuration",
+      "status": "success",
+      "referenceId": "plan-starter",
+      "metadata": {
+        "reason": "Admin updated plan configuration",
+        "afterValue": "Starter Yield Plan (30 KWD, 1.2 KWD/day)",
+        "referenceId": "plan-starter"
+      },
+      "timestamp": "2026-09-17T10:11:35.099Z"
+    },
+    {
+      "id": "aud-1789639895090-r7a99",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "Global Settings Updated",
+      "target_user_id": null,
+      "beforeValue": "{\"currency\":\"KWD\",\"currencySymbol\":\"ك.د\",\"depositRatePkr\":911,\"withdrawalRatePkr\":911,\"minDepositKwd\":25,\"maxDepositKwd\":10000,\"minWithdrawalKwd\":5,\"maxWithdrawalKwd\":5000,\"withdrawalFeePercent\":0,\"referralCommissionPercent\":10,\"defaultInvestmentDuration\":45,\"referralCommissionMode\":\"plan_activation\",\"telegramUrl\":\"https://t.me/wealthera_official\",\"telegramGroupUrl\":\"https://t.me/wealthera_community\",\"whatsappUrl\":\"https://wa.me/96500000000\",\"supportEmail\":\"support@wealthera.com\",\"whatsappNumber\":\"+965 9999 8888\",\"supportPhone\":\"+965 2200 1100\"}",
+      "afterValue": "{\"currency\":\"KWD\",\"currencySymbol\":\"ك.د\",\"depositRatePkr\":911,\"withdrawalRatePkr\":911,\"minDepositKwd\":30,\"maxDepositKwd\":10000,\"minWithdrawalKwd\":10,\"maxWithdrawalKwd\":5000,\"withdrawalFeePercent\":0,\"referralCommissionPercent\":10,\"defaultInvestmentDuration\":45,\"referralCommissionMode\":\"plan_activation\",\"telegramUrl\":\"https://t.me/wealthera_official\",\"telegramGroupUrl\":\"https://t.me/wealthera_community\",\"whatsappUrl\":\"https://wa.me/96500000000\",\"supportEmail\":\"support@wealthera.com\",\"whatsappNumber\":\"+965 9999 8888\",\"supportPhone\":\"+965 2200 1100\"}",
+      "reason": "Admin adjusted system financial parameters and support contacts",
+      "status": "success",
+      "referenceId": "SETT-UPD",
+      "metadata": {
+        "reason": "Admin adjusted system financial parameters and support contacts",
+        "beforeValue": "{\"currency\":\"KWD\",\"currencySymbol\":\"ك.د\",\"depositRatePkr\":911,\"withdrawalRatePkr\":911,\"minDepositKwd\":25,\"maxDepositKwd\":10000,\"minWithdrawalKwd\":5,\"maxWithdrawalKwd\":5000,\"withdrawalFeePercent\":0,\"referralCommissionPercent\":10,\"defaultInvestmentDuration\":45,\"referralCommissionMode\":\"plan_activation\",\"telegramUrl\":\"https://t.me/wealthera_official\",\"telegramGroupUrl\":\"https://t.me/wealthera_community\",\"whatsappUrl\":\"https://wa.me/96500000000\",\"supportEmail\":\"support@wealthera.com\",\"whatsappNumber\":\"+965 9999 8888\",\"supportPhone\":\"+965 2200 1100\"}",
+        "afterValue": "{\"currency\":\"KWD\",\"currencySymbol\":\"ك.د\",\"depositRatePkr\":911,\"withdrawalRatePkr\":911,\"minDepositKwd\":30,\"maxDepositKwd\":10000,\"minWithdrawalKwd\":10,\"maxWithdrawalKwd\":5000,\"withdrawalFeePercent\":0,\"referralCommissionPercent\":10,\"defaultInvestmentDuration\":45,\"referralCommissionMode\":\"plan_activation\",\"telegramUrl\":\"https://t.me/wealthera_official\",\"telegramGroupUrl\":\"https://t.me/wealthera_community\",\"whatsappUrl\":\"https://wa.me/96500000000\",\"supportEmail\":\"support@wealthera.com\",\"whatsappNumber\":\"+965 9999 8888\",\"supportPhone\":\"+965 2200 1100\"}",
+        "referenceId": "SETT-UPD"
+      },
+      "timestamp": "2026-09-17T10:11:35.090Z"
+    },
+    {
+      "id": "aud-1789639895080-uwl39",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "Deposit Method Updated",
+      "target_user_id": null,
+      "afterValue": "JazzCash (03001234567)",
+      "reason": "Admin updated payment account details/status",
+      "status": "success",
+      "referenceId": "dep-jazzcash",
+      "metadata": {
+        "reason": "Admin updated payment account details/status",
+        "afterValue": "JazzCash (03001234567)",
+        "referenceId": "dep-jazzcash"
+      },
+      "timestamp": "2026-09-17T10:11:35.080Z"
+    },
+    {
+      "id": "aud-1789639895063-2qm2z",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "Investment Plan Updated",
+      "target_user_id": null,
+      "afterValue": "Starter Yield Plan (35 KWD, 1.4 KWD/day)",
+      "reason": "Admin updated plan configuration",
+      "status": "success",
+      "referenceId": "plan-starter",
+      "metadata": {
+        "reason": "Admin updated plan configuration",
+        "afterValue": "Starter Yield Plan (35 KWD, 1.4 KWD/day)",
+        "referenceId": "plan-starter"
+      },
+      "timestamp": "2026-09-17T10:11:35.063Z"
+    },
+    {
+      "id": "aud-1789639895055-3opzb",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "Global Settings Updated",
+      "target_user_id": null,
+      "beforeValue": "{\"currency\":\"KWD\",\"currencySymbol\":\"ك.د\",\"depositRatePkr\":911,\"withdrawalRatePkr\":911,\"minDepositKwd\":30,\"maxDepositKwd\":10000,\"minWithdrawalKwd\":10,\"maxWithdrawalKwd\":5000,\"withdrawalFeePercent\":0,\"referralCommissionPercent\":10,\"defaultInvestmentDuration\":45,\"referralCommissionMode\":\"plan_activation\",\"telegramUrl\":\"https://t.me/wealthera_official\",\"telegramGroupUrl\":\"https://t.me/wealthera_community\",\"whatsappUrl\":\"https://wa.me/96500000000\",\"supportEmail\":\"support@wealthera.com\",\"whatsappNumber\":\"+965 9999 8888\",\"supportPhone\":\"+965 2200 1100\"}",
+      "afterValue": "{\"currency\":\"KWD\",\"currencySymbol\":\"ك.د\",\"depositRatePkr\":911,\"withdrawalRatePkr\":911,\"minDepositKwd\":25,\"maxDepositKwd\":10000,\"minWithdrawalKwd\":5,\"maxWithdrawalKwd\":5000,\"withdrawalFeePercent\":0,\"referralCommissionPercent\":10,\"defaultInvestmentDuration\":45,\"referralCommissionMode\":\"plan_activation\",\"telegramUrl\":\"https://t.me/wealthera_official\",\"telegramGroupUrl\":\"https://t.me/wealthera_community\",\"whatsappUrl\":\"https://wa.me/96500000000\",\"supportEmail\":\"support@wealthera.com\",\"whatsappNumber\":\"+965 9999 8888\",\"supportPhone\":\"+965 2200 1100\"}",
+      "reason": "Admin adjusted system financial parameters and support contacts",
+      "status": "success",
+      "referenceId": "SETT-UPD",
+      "metadata": {
+        "reason": "Admin adjusted system financial parameters and support contacts",
+        "beforeValue": "{\"currency\":\"KWD\",\"currencySymbol\":\"ك.د\",\"depositRatePkr\":911,\"withdrawalRatePkr\":911,\"minDepositKwd\":30,\"maxDepositKwd\":10000,\"minWithdrawalKwd\":10,\"maxWithdrawalKwd\":5000,\"withdrawalFeePercent\":0,\"referralCommissionPercent\":10,\"defaultInvestmentDuration\":45,\"referralCommissionMode\":\"plan_activation\",\"telegramUrl\":\"https://t.me/wealthera_official\",\"telegramGroupUrl\":\"https://t.me/wealthera_community\",\"whatsappUrl\":\"https://wa.me/96500000000\",\"supportEmail\":\"support@wealthera.com\",\"whatsappNumber\":\"+965 9999 8888\",\"supportPhone\":\"+965 2200 1100\"}",
+        "afterValue": "{\"currency\":\"KWD\",\"currencySymbol\":\"ك.د\",\"depositRatePkr\":911,\"withdrawalRatePkr\":911,\"minDepositKwd\":25,\"maxDepositKwd\":10000,\"minWithdrawalKwd\":5,\"maxWithdrawalKwd\":5000,\"withdrawalFeePercent\":0,\"referralCommissionPercent\":10,\"defaultInvestmentDuration\":45,\"referralCommissionMode\":\"plan_activation\",\"telegramUrl\":\"https://t.me/wealthera_official\",\"telegramGroupUrl\":\"https://t.me/wealthera_community\",\"whatsappUrl\":\"https://wa.me/96500000000\",\"supportEmail\":\"support@wealthera.com\",\"whatsappNumber\":\"+965 9999 8888\",\"supportPhone\":\"+965 2200 1100\"}",
+        "referenceId": "SETT-UPD"
+      },
+      "timestamp": "2026-09-17T10:11:35.055Z"
+    },
+    {
+      "id": "aud-1789639895035-6scjl",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "Deposit Method Updated",
+      "target_user_id": null,
+      "afterValue": "JazzCash (03009988776)",
+      "reason": "Admin updated payment account details/status",
+      "status": "success",
+      "referenceId": "dep-jazzcash",
+      "metadata": {
+        "reason": "Admin updated payment account details/status",
+        "afterValue": "JazzCash (03009988776)",
+        "referenceId": "dep-jazzcash"
+      },
+      "timestamp": "2026-09-17T10:11:35.035Z"
+    },
+    {
+      "id": "aud-1789614144636-isyx2",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "User Deleted",
+      "target_user_id": "user_4484",
+      "affectedUser": "user_4484",
+      "reason": "Admin deleted user account (user_1789614144484@test.com / 03004144484)",
+      "status": "success",
+      "referenceId": "usr-1789614144606-hz92",
+      "metadata": {
+        "reason": "Admin deleted user account (user_1789614144484@test.com / 03004144484)",
+        "referenceId": "usr-1789614144606-hz92"
+      },
+      "timestamp": "2026-09-17T03:02:24.636Z"
+    },
+    {
+      "id": "aud-1789614144607-oil86",
+      "admin_id": "system",
+      "admin": "system",
+      "action": "User Registered",
+      "target_user_id": "user_4484",
+      "affectedUser": "user_4484",
+      "reason": "New registration from user_1789614144484@test.com / 03004144484",
+      "status": "success",
+      "referenceId": "usr-1789614144606-hz92",
+      "metadata": {
+        "reason": "New registration from user_1789614144484@test.com / 03004144484",
+        "referenceId": "usr-1789614144606-hz92"
+      },
+      "timestamp": "2026-09-17T03:02:24.607Z"
+    },
+    {
+      "id": "aud-1789614004988-k5yyo",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "User Deleted",
+      "target_user_id": "test_reg_2",
+      "affectedUser": "test_reg_2",
+      "reason": "Admin deleted user account (testreg2@example.com / 03009998866)",
+      "status": "success",
+      "referenceId": "usr-1789614004967-6hm3",
+      "metadata": {
+        "reason": "Admin deleted user account (testreg2@example.com / 03009998866)",
+        "referenceId": "usr-1789614004967-6hm3"
+      },
+      "timestamp": "2026-09-17T03:00:04.988Z"
+    },
+    {
+      "id": "aud-1789614004968-ocyn4",
+      "admin_id": "system",
+      "admin": "system",
+      "action": "User Registered",
+      "target_user_id": "test_reg_2",
+      "affectedUser": "test_reg_2",
+      "reason": "New registration from testreg2@example.com / 03009998866",
+      "status": "success",
+      "referenceId": "usr-1789614004967-6hm3",
+      "metadata": {
+        "reason": "New registration from testreg2@example.com / 03009998866",
+        "referenceId": "usr-1789614004967-6hm3"
+      },
+      "timestamp": "2026-09-17T03:00:04.968Z"
+    },
+    {
+      "id": "aud-1789614000804-x1tno",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "User Deleted",
+      "target_user_id": "test_reg_1",
+      "affectedUser": "test_reg_1",
+      "reason": "Admin deleted user account (testreg1@example.com / 03009998877)",
+      "status": "success",
+      "referenceId": "usr-1789614000778-hq0j",
+      "metadata": {
+        "reason": "Admin deleted user account (testreg1@example.com / 03009998877)",
+        "referenceId": "usr-1789614000778-hq0j"
+      },
+      "timestamp": "2026-09-17T03:00:00.804Z"
+    },
+    {
+      "id": "aud-1789614000780-htale",
+      "admin_id": "system",
+      "admin": "system",
+      "action": "User Registered",
+      "target_user_id": "test_reg_1",
+      "affectedUser": "test_reg_1",
+      "reason": "New registration from testreg1@example.com / 03009998877",
+      "status": "success",
+      "referenceId": "usr-1789614000778-hq0j",
+      "metadata": {
+        "reason": "New registration from testreg1@example.com / 03009998877",
+        "referenceId": "usr-1789614000778-hq0j"
+      },
+      "timestamp": "2026-09-17T03:00:00.780Z"
+    },
+    {
+      "id": "aud-1789572733355-pp3yu",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "User Deleted",
+      "target_user_id": "flowtest_temp",
+      "affectedUser": "flowtest_temp",
+      "reason": "Admin deleted user account (flowtest@wealthera.com / 03001234999)",
+      "status": "success",
+      "referenceId": "usr-1789572733285-02z2",
+      "metadata": {
+        "reason": "Admin deleted user account (flowtest@wealthera.com / 03001234999)",
+        "referenceId": "usr-1789572733285-02z2"
+      },
+      "timestamp": "2026-09-16T15:32:13.355Z"
+    },
+    {
+      "id": "aud-1789572733345-00r0b",
+      "admin_id": "user",
+      "admin": "user",
+      "action": "Withdrawal Requested",
+      "target_user_id": "flowtest_temp",
+      "affectedUser": "flowtest_temp",
+      "amount": 20,
+      "beforeValue": "35.00 KWD",
+      "afterValue": "15.00 KWD",
+      "reason": "Cash/PKR withdrawal requested",
+      "status": "pending",
+      "referenceId": "wd-req-1789572733345",
+      "metadata": {
+        "reason": "Cash/PKR withdrawal requested",
+        "beforeValue": "35.00 KWD",
+        "afterValue": "15.00 KWD",
+        "amount": 20,
+        "referenceId": "wd-req-1789572733345"
+      },
+      "timestamp": "2026-09-16T15:32:13.345Z"
+    },
+    {
+      "id": "aud-1789572733341-a6do1",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "Deposit Approved",
+      "target_user_id": "flowtest_temp",
+      "affectedUser": "flowtest_temp",
+      "amount": 35,
+      "beforeValue": "0.00 KWD",
+      "afterValue": "35.00 KWD",
+      "reason": "Approved deposit TID: TID-FLOW-999",
+      "status": "approved",
+      "referenceId": "dep-req-1789572733312",
+      "metadata": {
+        "reason": "Approved deposit TID: TID-FLOW-999",
+        "beforeValue": "0.00 KWD",
+        "afterValue": "35.00 KWD",
+        "amount": 35,
+        "referenceId": "dep-req-1789572733312"
+      },
+      "timestamp": "2026-09-16T15:32:13.341Z"
+    },
+    {
+      "id": "aud-1789572733329-7y5ji",
+      "admin_id": "user",
+      "admin": "user",
+      "action": "Deposit Submitted",
+      "target_user_id": "flowtest_temp",
+      "affectedUser": "flowtest_temp",
+      "amount": 35,
+      "reason": "TID: TID-FLOW-999 via Easypaisa from 03001234999",
+      "status": "pending",
+      "referenceId": "dep-req-1789572733312",
+      "metadata": {
+        "reason": "TID: TID-FLOW-999 via Easypaisa from 03001234999",
+        "amount": 35,
+        "referenceId": "dep-req-1789572733312"
+      },
+      "timestamp": "2026-09-16T15:32:13.329Z"
+    },
+    {
+      "id": "aud-1789572733286-jkq1g",
+      "admin_id": "system",
+      "admin": "system",
+      "action": "User Registered",
+      "target_user_id": "flowtest_temp",
+      "affectedUser": "flowtest_temp",
+      "reason": "New registration from flowtest@wealthera.com / 03001234999",
+      "status": "success",
+      "referenceId": "usr-1789572733285-02z2",
+      "metadata": {
+        "reason": "New registration from flowtest@wealthera.com / 03001234999",
+        "referenceId": "usr-1789572733285-02z2"
+      },
+      "timestamp": "2026-09-16T15:32:13.286Z"
+    },
+    {
+      "id": "aud-1789572721996-dzsz1",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "User Deleted",
+      "target_user_id": "member_user99",
+      "affectedUser": "member_user99",
+      "reason": "Admin deleted user account (member99@example.com / 03009998878)",
+      "status": "success",
+      "referenceId": "usr-1789541855610-77z5",
+      "metadata": {
+        "reason": "Admin deleted user account (member99@example.com / 03009998878)",
+        "referenceId": "usr-1789541855610-77z5"
+      },
+      "timestamp": "2026-09-16T15:32:01.996Z"
+    },
+    {
+      "id": "aud-1789572721992-m8ctt",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "User Deleted",
+      "target_user_id": "leader_user99",
+      "affectedUser": "leader_user99",
+      "reason": "Admin deleted user account (leader99@example.com / 03009998877)",
+      "status": "success",
+      "referenceId": "usr-1789541850986-gubc",
+      "metadata": {
+        "reason": "Admin deleted user account (leader99@example.com / 03009998877)",
+        "referenceId": "usr-1789541850986-gubc"
+      },
+      "timestamp": "2026-09-16T15:32:01.992Z"
+    },
+    {
+      "id": "aud-1789572721987-ukzqr",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "User Deleted",
+      "target_user_id": "globaltest1",
+      "affectedUser": "globaltest1",
+      "reason": "Admin deleted user account (globaltest1@wealthera.com / 03120000001)",
+      "status": "success",
+      "referenceId": "usr-1789541199003-c736",
+      "metadata": {
+        "reason": "Admin deleted user account (globaltest1@wealthera.com / 03120000001)",
+        "referenceId": "usr-1789541199003-c736"
+      },
+      "timestamp": "2026-09-16T15:32:01.987Z"
+    },
+    {
+      "id": "aud-1789572721982-t5phz",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "User Deleted",
+      "target_user_id": "testuser",
+      "affectedUser": "testuser",
+      "reason": "Admin deleted user account (test@example.com / 03001234567)",
+      "status": "success",
+      "referenceId": "usr-1789540860252-fhww",
+      "metadata": {
+        "reason": "Admin deleted user account (test@example.com / 03001234567)",
+        "referenceId": "usr-1789540860252-fhww"
+      },
+      "timestamp": "2026-09-16T15:32:01.982Z"
+    },
+    {
+      "id": "aud-1789572721976-1wn3u",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "User Deleted",
+      "target_user_id": "testuser99",
+      "affectedUser": "testuser99",
+      "reason": "Admin deleted user account (testuser99@example.com / +96512345678)",
+      "status": "success",
+      "referenceId": "usr-1789539736569-db6u",
+      "metadata": {
+        "reason": "Admin deleted user account (testuser99@example.com / +96512345678)",
+        "referenceId": "usr-1789539736569-db6u"
+      },
+      "timestamp": "2026-09-16T15:32:01.976Z"
+    },
+    {
+      "id": "aud-1789572721966-st83y",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "User Deleted",
+      "target_user_id": "testuser1",
+      "affectedUser": "testuser1",
+      "reason": "Admin deleted user account (testuser1@example.com / +96590000001)",
+      "status": "success",
+      "referenceId": "usr-1789537431288-biwa",
+      "metadata": {
+        "reason": "Admin deleted user account (testuser1@example.com / +96590000001)",
+        "referenceId": "usr-1789537431288-biwa"
+      },
+      "timestamp": "2026-09-16T15:32:01.966Z"
+    },
+    {
+      "id": "aud-1789572069644-klqxw",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "Customer Support Link Created",
+      "target_user_id": null,
+      "afterValue": "Email",
+      "reason": "Admin added new support channel",
+      "status": "success",
+      "referenceId": "supp-1789572069644",
+      "metadata": {
+        "reason": "Admin added new support channel",
+        "afterValue": "Email",
+        "referenceId": "supp-1789572069644"
+      },
+      "timestamp": "2026-09-16T15:21:09.644Z"
+    },
+    {
+      "id": "aud-1789572009088-5l94s",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "Customer Support Link Deleted",
+      "target_user_id": null,
+      "beforeValue": "Community Discussion Group",
+      "reason": "Admin removed support channel",
+      "status": "success",
+      "referenceId": "supp-telegram-group",
+      "metadata": {
+        "reason": "Admin removed support channel",
+        "beforeValue": "Community Discussion Group",
+        "referenceId": "supp-telegram-group"
+      },
+      "timestamp": "2026-09-16T15:20:09.088Z"
+    },
+    {
+      "id": "aud-1789572005469-y7qj2",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "Customer Support Link Deleted",
+      "target_user_id": null,
+      "beforeValue": "Official Telegram Channel",
+      "reason": "Admin removed support channel",
+      "status": "success",
+      "referenceId": "supp-telegram-official",
+      "metadata": {
+        "reason": "Admin removed support channel",
+        "beforeValue": "Official Telegram Channel",
+        "referenceId": "supp-telegram-official"
+      },
+      "timestamp": "2026-09-16T15:20:05.469Z"
+    },
+    {
+      "id": "aud-1789571986567-utada",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "Deposit Method Updated",
+      "target_user_id": null,
+      "afterValue": "Easypaisa",
+      "reason": "Admin updated payment account details/status",
+      "status": "success",
+      "referenceId": "dep-easypaisa",
+      "metadata": {
+        "reason": "Admin updated payment account details/status",
+        "afterValue": "Easypaisa",
+        "referenceId": "dep-easypaisa"
+      },
+      "timestamp": "2026-09-16T15:19:46.567Z"
+    },
+    {
+      "id": "aud-1789571979074-5ijsh",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "Deposit Method Deleted",
+      "target_user_id": null,
+      "beforeValue": "JazzCash",
+      "reason": "Admin deleted payment method",
+      "status": "success",
+      "referenceId": "dep-jazzcash",
+      "metadata": {
+        "reason": "Admin deleted payment method",
+        "beforeValue": "JazzCash",
+        "referenceId": "dep-jazzcash"
+      },
+      "timestamp": "2026-09-16T15:19:39.074Z"
+    },
+    {
+      "id": "aud-1789571857079-wnc71",
+      "admin_id": "system",
+      "admin": "system",
+      "action": "User Registered",
+      "target_user_id": "alia1",
+      "affectedUser": "alia1",
+      "reason": "New registration from alia2@gmail.com / 03524587412",
+      "status": "success",
+      "referenceId": "usr-1789571857076-8fyj",
+      "metadata": {
+        "reason": "New registration from alia2@gmail.com / 03524587412",
+        "referenceId": "usr-1789571857076-8fyj"
+      },
+      "timestamp": "2026-09-16T15:17:37.079Z"
+    },
+    {
+      "id": "aud-1789541950689-hsar1",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "Admin Credited Profit",
+      "target_user_id": "member_user99",
+      "affectedUser": "member_user99",
+      "amount": 4.58,
+      "beforeValue": "75.00 KWD",
+      "afterValue": "79.58 KWD",
+      "reason": "24h Profit distribution for 2 active plans",
+      "status": "success",
+      "referenceId": "PROFIT-1789541950688",
+      "metadata": {
+        "reason": "24h Profit distribution for 2 active plans",
+        "beforeValue": "75.00 KWD",
+        "afterValue": "79.58 KWD",
+        "amount": 4.58,
+        "referenceId": "PROFIT-1789541950688"
+      },
+      "timestamp": "2026-09-16T06:59:10.689Z"
+    },
+    {
+      "id": "aud-1789541931047-5yg9d",
+      "admin_id": "system",
+      "admin": "system",
+      "action": "User Purchased Plan",
+      "target_user_id": "member_user99",
+      "affectedUser": "member_user99",
+      "amount": 75,
+      "beforeValue": "150.00 KWD",
+      "afterValue": "75.00 KWD",
+      "reason": "Plan purchase: Silver Growth Plan",
+      "status": "success",
+      "referenceId": "TX-BUY-1789541931046",
+      "metadata": {
+        "reason": "Plan purchase: Silver Growth Plan",
+        "beforeValue": "150.00 KWD",
+        "afterValue": "75.00 KWD",
+        "amount": 75,
+        "referenceId": "TX-BUY-1789541931046"
+      },
+      "timestamp": "2026-09-16T06:58:51.047Z"
+    },
+    {
+      "id": "aud-1789541931047-e3pbn",
+      "admin_id": "system",
+      "admin": "system",
+      "action": "Referral Commission Paid on Plan Activation",
+      "target_user_id": "leader_user99",
+      "affectedUser": "leader_user99",
+      "amount": 7.5,
+      "reason": "10% from @member_user99 plan Silver Growth Plan",
+      "status": "success",
+      "referenceId": "inv-1789541931046",
+      "metadata": {
+        "reason": "10% from @member_user99 plan Silver Growth Plan",
+        "amount": 7.5,
+        "referenceId": "inv-1789541931046"
+      },
+      "timestamp": "2026-09-16T06:58:51.047Z"
+    },
+    {
+      "id": "aud-1789541927762-rlxvi",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "Admin Added Balance",
+      "target_user_id": "member_user99",
+      "affectedUser": "member_user99",
+      "amount": 100,
+      "beforeValue": "50.00 KWD",
+      "afterValue": "150.00 KWD",
+      "reason": "Top up for plan purchase",
+      "status": "success",
+      "referenceId": "BAL-ADJ-1789541927762",
+      "metadata": {
+        "reason": "Top up for plan purchase",
+        "beforeValue": "50.00 KWD",
+        "afterValue": "150.00 KWD",
+        "amount": 100,
+        "referenceId": "BAL-ADJ-1789541927762"
+      },
+      "timestamp": "2026-09-16T06:58:47.762Z"
+    },
+    {
+      "id": "aud-1789541916799-8q5ne",
+      "admin_id": "user",
+      "admin": "user",
+      "action": "Withdrawal Requested",
+      "target_user_id": "member_user99",
+      "affectedUser": "member_user99",
+      "amount": 50,
+      "beforeValue": "100.00 KWD",
+      "afterValue": "50.00 KWD",
+      "reason": "Cash/PKR withdrawal requested",
+      "status": "pending",
+      "referenceId": "wd-req-1789541916799",
+      "metadata": {
+        "reason": "Cash/PKR withdrawal requested",
+        "beforeValue": "100.00 KWD",
+        "afterValue": "50.00 KWD",
+        "amount": 50,
+        "referenceId": "wd-req-1789541916799"
+      },
+      "timestamp": "2026-09-16T06:58:36.799Z"
+    },
+    {
+      "id": "aud-1789541911321-lwgez",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "Admin Added Balance",
+      "target_user_id": "member_user99",
+      "affectedUser": "member_user99",
+      "amount": 100,
+      "beforeValue": "0.00 KWD",
+      "afterValue": "100.00 KWD",
+      "reason": "Testing withdrawal",
+      "status": "success",
+      "referenceId": "BAL-ADJ-1789541911321",
+      "metadata": {
+        "reason": "Testing withdrawal",
+        "beforeValue": "0.00 KWD",
+        "afterValue": "100.00 KWD",
+        "amount": 100,
+        "referenceId": "BAL-ADJ-1789541911321"
+      },
+      "timestamp": "2026-09-16T06:58:31.321Z"
+    },
+    {
+      "id": "aud-1789541904281-pbg19",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "Deposit Method Updated",
+      "target_user_id": null,
+      "afterValue": "JazzCash",
+      "reason": "Admin updated payment account details/status",
+      "status": "success",
+      "referenceId": "dep-jazzcash",
+      "metadata": {
+        "reason": "Admin updated payment account details/status",
+        "afterValue": "JazzCash",
+        "referenceId": "dep-jazzcash"
+      },
+      "timestamp": "2026-09-16T06:58:24.281Z"
+    },
+    {
+      "id": "aud-1789541873846-gh50r",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "User Profile Updated by Admin",
+      "target_user_id": "member_user99",
+      "affectedUser": "member_user99",
+      "reason": "Administrative update of user credentials, phone, email, balance or status",
+      "status": "success",
+      "referenceId": "usr-1789541855610-77z5",
+      "metadata": {
+        "reason": "Administrative update of user credentials, phone, email, balance or status",
+        "referenceId": "usr-1789541855610-77z5"
+      },
+      "timestamp": "2026-09-16T06:57:53.846Z"
+    },
+    {
+      "id": "aud-1789541873846-3vecj",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "Plan Assigned by Admin",
+      "target_user_id": "member_user99",
+      "affectedUser": "member_user99",
+      "afterValue": "Starter Yield Plan",
+      "reason": "Admin assigned/changed plan to Starter Yield Plan",
+      "status": "success",
+      "referenceId": "usr-1789541855610-77z5",
+      "metadata": {
+        "reason": "Admin assigned/changed plan to Starter Yield Plan",
+        "afterValue": "Starter Yield Plan",
+        "referenceId": "usr-1789541855610-77z5"
+      },
+      "timestamp": "2026-09-16T06:57:53.846Z"
+    },
+    {
+      "id": "aud-1789541855612-quwqe",
+      "admin_id": "system",
+      "admin": "system",
+      "action": "User Registered",
+      "target_user_id": "member_user99",
+      "affectedUser": "member_user99",
+      "reason": "New registration from member99@example.com / 03009998878",
+      "status": "success",
+      "referenceId": "usr-1789541855610-77z5",
+      "metadata": {
+        "reason": "New registration from member99@example.com / 03009998878",
+        "referenceId": "usr-1789541855610-77z5"
+      },
+      "timestamp": "2026-09-16T06:57:35.612Z"
+    },
+    {
+      "id": "aud-1789541850988-wjdkn",
+      "admin_id": "system",
+      "admin": "system",
+      "action": "User Registered",
+      "target_user_id": "leader_user99",
+      "affectedUser": "leader_user99",
+      "reason": "New registration from leader99@example.com / 03009998877",
+      "status": "success",
+      "referenceId": "usr-1789541850986-gubc",
+      "metadata": {
+        "reason": "New registration from leader99@example.com / 03009998877",
+        "referenceId": "usr-1789541850986-gubc"
+      },
+      "timestamp": "2026-09-16T06:57:30.988Z"
+    },
+    {
+      "id": "aud-1789541231808-sabht",
+      "admin_id": "system-auth",
+      "admin": "system-auth",
+      "action": "User Password Reset",
+      "target_user_id": "Abdullah",
+      "affectedUser": "Abdullah",
+      "reason": "User completed 6-digit code reset flow",
+      "status": "success",
+      "referenceId": "RESET-Abdullah",
+      "metadata": {
+        "reason": "User completed 6-digit code reset flow",
+        "referenceId": "RESET-Abdullah"
+      },
+      "timestamp": "2026-09-16T06:47:11.808Z"
+    },
+    {
+      "id": "aud-1789541228986-ysktu",
+      "admin_id": "auth-system",
+      "admin": "auth-system",
+      "action": "Password Reset Requested",
+      "target_user_id": "Abdullah",
+      "affectedUser": "Abdullah",
+      "reason": "User initiated password reset verification flow",
+      "status": "pending",
+      "referenceId": "RESET-REQ-usr-1789366474203-2ou5",
+      "metadata": {
+        "reason": "User initiated password reset verification flow",
+        "referenceId": "RESET-REQ-usr-1789366474203-2ou5"
+      },
+      "timestamp": "2026-09-16T06:47:08.986Z"
+    },
+    {
+      "id": "aud-1789541225562-wqwwi",
+      "admin_id": "system-auth",
+      "admin": "system-auth",
+      "action": "User Password Reset",
+      "target_user_id": "globaltest1",
+      "affectedUser": "globaltest1",
+      "reason": "User completed 6-digit code reset flow",
+      "status": "success",
+      "referenceId": "RESET-globaltest1",
+      "metadata": {
+        "reason": "User completed 6-digit code reset flow",
+        "referenceId": "RESET-globaltest1"
+      },
+      "timestamp": "2026-09-16T06:47:05.562Z"
+    },
+    {
+      "id": "aud-1789541222330-6fyh3",
+      "admin_id": "auth-system",
+      "admin": "auth-system",
+      "action": "Password Reset Requested",
+      "target_user_id": "globaltest1",
+      "affectedUser": "globaltest1",
+      "reason": "User initiated password reset verification flow",
+      "status": "pending",
+      "referenceId": "RESET-REQ-usr-1789541199003-c736",
+      "metadata": {
+        "reason": "User initiated password reset verification flow",
+        "referenceId": "RESET-REQ-usr-1789541199003-c736"
+      },
+      "timestamp": "2026-09-16T06:47:02.330Z"
+    },
+    {
+      "id": "aud-1789541199004-e00lu",
+      "admin_id": "system",
+      "admin": "system",
+      "action": "User Registered",
+      "target_user_id": "globaltest1",
+      "affectedUser": "globaltest1",
+      "reason": "New registration from globaltest1@wealthera.com / 03120000001",
+      "status": "success",
+      "referenceId": "usr-1789541199003-c736",
+      "metadata": {
+        "reason": "New registration from globaltest1@wealthera.com / 03120000001",
+        "referenceId": "usr-1789541199003-c736"
+      },
+      "timestamp": "2026-09-16T06:46:39.005Z"
+    },
+    {
+      "id": "aud-1789540860254-fzu8d",
+      "admin_id": "system",
+      "admin": "system",
+      "action": "User Registered",
+      "target_user_id": "testuser",
+      "affectedUser": "testuser",
+      "reason": "New registration from test@example.com / 03001234567",
+      "status": "success",
+      "referenceId": "usr-1789540860252-fhww",
+      "metadata": {
+        "reason": "New registration from test@example.com / 03001234567",
+        "referenceId": "usr-1789540860252-fhww"
+      },
+      "timestamp": "2026-09-16T06:41:00.254Z"
+    },
+    {
+      "id": "aud-1789539736570-7u9ur",
+      "admin_id": "system",
+      "admin": "system",
+      "action": "User Registered",
+      "target_user_id": "testuser99",
+      "affectedUser": "testuser99",
+      "reason": "New registration from testuser99@example.com / +96512345678",
+      "status": "success",
+      "referenceId": "usr-1789539736569-db6u",
+      "metadata": {
+        "reason": "New registration from testuser99@example.com / +96512345678",
+        "referenceId": "usr-1789539736569-db6u"
+      },
+      "timestamp": "2026-09-16T06:22:16.570Z"
+    },
+    {
+      "id": "aud-1789537431290-6qyw8",
+      "admin_id": "system",
+      "admin": "system",
+      "action": "User Registered",
+      "target_user_id": "testuser1",
+      "affectedUser": "testuser1",
+      "reason": "New registration from testuser1@example.com / +96590000001",
+      "status": "success",
+      "referenceId": "usr-1789537431288-biwa",
+      "metadata": {
+        "reason": "New registration from testuser1@example.com / +96590000001",
+        "referenceId": "usr-1789537431288-biwa"
+      },
+      "timestamp": "2026-09-16T05:43:51.290Z"
+    },
+    {
+      "id": "aud-1789534971952-6srkp",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "Admin Deducted Balance",
+      "target_user_id": "Abdullah",
+      "affectedUser": "Abdullah",
+      "amount": 30,
+      "beforeValue": "30.00 KWD",
+      "afterValue": "0.00 KWD",
+      "reason": "Reset test deposit",
+      "status": "success",
+      "referenceId": "BAL-ADJ-1789534971952",
+      "metadata": {
+        "reason": "Reset test deposit",
+        "beforeValue": "30.00 KWD",
+        "afterValue": "0.00 KWD",
+        "amount": 30,
+        "referenceId": "BAL-ADJ-1789534971952"
+      },
+      "timestamp": "2026-09-16T05:02:51.952Z"
+    },
+    {
+      "id": "aud-1789534967296-io5wo",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "Deposit Request Deleted",
+      "target_user_id": "Abdullah",
+      "affectedUser": "Abdullah",
+      "amount": 30,
+      "reason": "Admin deleted deposit record (TRX-TEST-9988)",
+      "status": "success",
+      "referenceId": "dep-req-1789534948015",
+      "metadata": {
+        "reason": "Admin deleted deposit record (TRX-TEST-9988)",
+        "amount": 30,
+        "referenceId": "dep-req-1789534948015"
+      },
+      "timestamp": "2026-09-16T05:02:47.296Z"
+    },
+    {
+      "id": "aud-1789534961161-2jx5k",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "Deposit Approved",
+      "target_user_id": "Abdullah",
+      "affectedUser": "Abdullah",
+      "amount": 30,
+      "beforeValue": "0.00 KWD",
+      "afterValue": "30.00 KWD",
+      "reason": "Approved deposit TID: TRX-TEST-9988",
+      "status": "approved",
+      "referenceId": "dep-req-1789534948015",
+      "metadata": {
+        "reason": "Approved deposit TID: TRX-TEST-9988",
+        "beforeValue": "0.00 KWD",
+        "afterValue": "30.00 KWD",
+        "amount": 30,
+        "referenceId": "dep-req-1789534948015"
+      },
+      "timestamp": "2026-09-16T05:02:41.161Z"
+    },
+    {
+      "id": "aud-1789534948031-a0fg6",
+      "admin_id": "user",
+      "admin": "user",
+      "action": "Deposit Submitted",
+      "target_user_id": "Abdullah",
+      "affectedUser": "Abdullah",
+      "amount": 30,
+      "reason": "TID: TRX-TEST-9988 via Easypaisa from 030384899975",
+      "status": "pending",
+      "referenceId": "dep-req-1789534948015",
+      "metadata": {
+        "reason": "TID: TRX-TEST-9988 via Easypaisa from 030384899975",
+        "amount": 30,
+        "referenceId": "dep-req-1789534948015"
+      },
+      "timestamp": "2026-09-16T05:02:28.031Z"
+    },
+    {
+      "id": "aud-1789534742994-vj3ey",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "User Deleted",
+      "target_user_id": "investor_test",
+      "affectedUser": "investor_test",
+      "reason": "Admin deleted user account (investor@test.com / +96512345678)",
+      "status": "success",
+      "referenceId": "usr-1789534105047-h12k",
+      "metadata": {
+        "reason": "Admin deleted user account (investor@test.com / +96512345678)",
+        "referenceId": "usr-1789534105047-h12k"
+      },
+      "timestamp": "2026-09-16T04:59:02.994Z"
+    },
+    {
+      "id": "aud-1789534105049-vlyn7",
+      "admin_id": "system",
+      "admin": "system",
+      "action": "User Registered",
+      "target_user_id": "investor_test",
+      "affectedUser": "investor_test",
+      "reason": "New registration from investor@test.com / +96512345678",
+      "status": "success",
+      "referenceId": "usr-1789534105047-h12k",
+      "metadata": {
+        "reason": "New registration from investor@test.com / +96512345678",
+        "referenceId": "usr-1789534105047-h12k"
+      },
+      "timestamp": "2026-09-16T04:48:25.049Z"
+    },
+    {
+      "id": "aud-1789534100026-ak0t3",
+      "admin_id": "admin",
+      "admin": "admin",
+      "action": "Global Settings Updated",
+      "target_user_id": null,
+      "beforeValue": "{\"currency\":\"KWD\",\"currencySymbol\":\"ك.د\",\"depositRatePkr\":911,\"withdrawalRatePkr\":911,\"minDepositKwd\":30,\"maxDepositKwd\":10000,\"minWithdrawalKwd\":10,\"maxWithdrawalKwd\":5000,\"withdrawalFeePercent\":0,\"referralCommissionPercent\":10,\"defaultInvestmentDuration\":45,\"referralCommissionMode\":\"plan_activation\",\"telegramUrl\":\"https://t.me/wealthera_official\",\"telegramGroupUrl\":\"https://t.me/wealthera_community\",\"whatsappUrl\":\"https://wa.me/96500000000\",\"supportEmail\":\"support@wealthera.com\"}",
+      "afterValue": "{\"currency\":\"KWD\",\"currencySymbol\":\"ك.د\",\"depositRatePkr\":911,\"withdrawalRatePkr\":911,\"minDepositKwd\":30,\"maxDepositKwd\":10000,\"minWithdrawalKwd\":10,\"maxWithdrawalKwd\":5000,\"withdrawalFeePercent\":0,\"referralCommissionPercent\":10,\"defaultInvestmentDuration\":45,\"referralCommissionMode\":\"plan_activation\",\"telegramUrl\":\"https://t.me/wealthera_official\",\"telegramGroupUrl\":\"https://t.me/wealthera_community\",\"whatsappUrl\":\"https://wa.me/96500000000\",\"supportEmail\":\"support@wealthera.com\",\"whatsappNumber\":\"+965 9999 8888\",\"supportPhone\":\"+965 2200 1100\"}",
+      "reason": "Admin adjusted system financial parameters",
+      "status": "success",
+      "referenceId": "SETT-UPD",
+      "metadata": {
+        "reason": "Admin adjusted system financial parameters",
+        "beforeValue": "{\"currency\":\"KWD\",\"currencySymbol\":\"ك.د\",\"depositRatePkr\":911,\"withdrawalRatePkr\":911,\"minDepositKwd\":30,\"maxDepositKwd\":10000,\"minWithdrawalKwd\":10,\"maxWithdrawalKwd\":5000,\"withdrawalFeePercent\":0,\"referralCommissionPercent\":10,\"defaultInvestmentDuration\":45,\"referralCommissionMode\":\"plan_activation\",\"telegramUrl\":\"https://t.me/wealthera_official\",\"telegramGroupUrl\":\"https://t.me/wealthera_community\",\"whatsappUrl\":\"https://wa.me/96500000000\",\"supportEmail\":\"support@wealthera.com\"}",
+        "afterValue": "{\"currency\":\"KWD\",\"currencySymbol\":\"ك.د\",\"depositRatePkr\":911,\"withdrawalRatePkr\":911,\"minDepositKwd\":30,\"maxDepositKwd\":10000,\"minWithdrawalKwd\":10,\"maxWithdrawalKwd\":5000,\"withdrawalFeePercent\":0,\"referralCommissionPercent\":10,\"defaultInvestmentDuration\":45,\"referralCommissionMode\":\"plan_activation\",\"telegramUrl\":\"https://t.me/wealthera_official\",\"telegramGroupUrl\":\"https://t.me/wealthera_community\",\"whatsappUrl\":\"https://wa.me/96500000000\",\"supportEmail\":\"support@wealthera.com\",\"whatsappNumber\":\"+965 9999 8888\",\"supportPhone\":\"+965 2200 1100\"}",
+        "referenceId": "SETT-UPD"
+      },
+      "timestamp": "2026-09-16T04:48:20.026Z"
+    },
+    {
+      "id": "aud-1789532024075-va8dg",
+      "admin_id": "Super Admin",
+      "admin": "Super Admin",
+      "action": "User Deleted",
+      "target_user_id": "sync_test_user_1",
+      "affectedUser": "sync_test_user_1",
+      "reason": "Admin deleted user account (synctest1@wealthera.com / +96599887766)",
+      "status": "success",
+      "referenceId": "usr-1789532010039-8psk",
+      "metadata": {
+        "reason": "Admin deleted user account (synctest1@wealthera.com / +96599887766)",
+        "referenceId": "usr-1789532010039-8psk"
+      },
+      "timestamp": "2026-09-16T04:13:44.075Z"
+    },
+    {
+      "id": "aud-1789532010041-3f9dd",
+      "admin_id": "system",
+      "admin": "system",
+      "action": "User Registered",
+      "target_user_id": "sync_test_user_1",
+      "affectedUser": "sync_test_user_1",
+      "reason": "New registration from synctest1@wealthera.com / +96599887766",
+      "status": "success",
+      "referenceId": "usr-1789532010039-8psk",
+      "metadata": {
+        "reason": "New registration from synctest1@wealthera.com / +96599887766",
+        "referenceId": "usr-1789532010039-8psk"
+      },
+      "timestamp": "2026-09-16T04:13:30.041Z"
+    },
+    {
+      "id": "aud-1789531670518-wp80h",
+      "admin_id": "system",
+      "admin": "system",
+      "action": "User Registered",
+      "target_user_id": "testuser1",
+      "affectedUser": "testuser1",
+      "reason": "New registration from testuser1@gmail.com / +923001234567",
+      "status": "success",
+      "referenceId": "usr-1789531670516-r21u",
+      "metadata": {
+        "reason": "New registration from testuser1@gmail.com / +923001234567",
+        "referenceId": "usr-1789531670516-r21u"
+      },
+      "timestamp": "2026-09-16T04:07:50.518Z"
+    },
+    {
+      "id": "aud-1789529743998-mbvak",
+      "admin_id": "admin-master",
+      "admin": "admin-master",
+      "action": "Admin Impersonation Ended",
+      "target_user_id": "usr-1789366474203-2ou5",
+      "affectedUser": "usr-1789366474203-2ou5",
+      "reason": "Admin @admin terminated impersonation session for user @Abdullah after 1 min",
+      "status": "completed",
+      "referenceId": "imp-1789529743973-c9960f9f3345b4307e8b4731d76d8944f3497bced7e8d47d",
+      "metadata": {
+        "eventType": "impersonation_end",
+        "adminId": "admin-master",
+        "adminUsername": "admin",
+        "targetUserId": "usr-1789366474203-2ou5",
+        "targetUsername": "Abdullah",
+        "durationMinutes": 1,
+        "endedAt": "2026-09-16T03:35:43.998Z",
+        "ip": "127.0.0.1",
+        "reason": "Admin @admin terminated impersonation session for user @Abdullah after 1 min",
+        "referenceId": "imp-1789529743973-c9960f9f3345b4307e8b4731d76d8944f3497bced7e8d47d"
+      },
+      "timestamp": "2026-09-16T03:35:43.998Z"
+    },
+    {
+      "id": "aud-1789529743974-uk1v1",
+      "admin_id": "admin-master",
+      "admin": "admin-master",
+      "action": "Admin Impersonation Started",
+      "target_user_id": "usr-1789366474203-2ou5",
+      "affectedUser": "usr-1789366474203-2ou5",
+      "reason": "Admin @admin initiated temporary impersonation session for user @Abdullah (usr-1789366474203-2ou5)",
+      "status": "active",
+      "referenceId": "imp-1789529743973-c9960f9f3345b4307e8b4731d76d8944f3497bced7e8d47d",
+      "metadata": {
+        "eventType": "impersonation_start",
+        "adminId": "admin-master",
+        "adminUsername": "admin",
+        "targetUserId": "usr-1789366474203-2ou5",
+        "targetUsername": "Abdullah",
+        "startedAt": "2026-09-16T03:35:43.974Z",
+        "ip": "127.0.0.1",
+        "userAgent": "node",
+        "reason": "Admin @admin initiated temporary impersonation session for user @Abdullah (usr-1789366474203-2ou5)",
+        "referenceId": "imp-1789529743973-c9960f9f3345b4307e8b4731d76d8944f3497bced7e8d47d"
+      },
+      "timestamp": "2026-09-16T03:35:43.974Z"
+    },
+    {
+      "action": "User Profile Updated by Admin",
+      "admin": "admin",
+      "affectedUser": "Abdullah",
+      "reason": "Administrative update of user credentials and status",
+      "status": "success",
+      "referenceId": "usr-1789366474203-2ou5",
+      "id": "aud-1789457936790-0l2d8",
+      "timestamp": "2026-09-15T07:38:56.790Z"
+    },
+    {
+      "action": "User Profile Updated by Admin",
+      "admin": "admin",
+      "affectedUser": "Abdullah",
+      "reason": "Administrative update of user credentials and status",
+      "status": "success",
+      "referenceId": "usr-1789366474203-2ou5",
+      "id": "aud-1789457936782-02wh9",
+      "timestamp": "2026-09-15T07:38:56.782Z"
+    },
+    {
+      "id": "aud-sys-init",
+      "action": "System Initialized",
+      "admin": "system",
+      "amount": 0,
+      "beforeValue": "None",
+      "afterValue": "Production Clean Slate",
+      "reason": "Initialized genuine production database with zero test or mock data",
+      "timestamp": "2026-09-15T08:00:00.000Z",
+      "status": "success",
+      "referenceId": "GENESIS-CLEAN"
+    }
+  ],
+  "wallets": [
+    {
+      "id": "wal-usr-1789366474203-2ou5",
+      "user_id": "usr-1789366474203-2ou5",
+      "userId": "usr-1789366474203-2ou5",
+      "available_balance": 0,
+      "availableBalance": 0,
+      "locked_balance": 0,
+      "lockedBalance": 0,
+      "currency": "KWD",
+      "created_at": "2026-09-14T06:14:34.203Z",
+      "createdAt": "2026-09-14T06:14:34.203Z",
+      "updated_at": "2026-09-24T04:27:46.483Z",
+      "updatedAt": "2026-09-24T04:27:46.483Z"
+    },
+    {
+      "id": "wal-usr-1789384998926-wspn",
+      "user_id": "usr-1789384998926-wspn",
+      "userId": "usr-1789384998926-wspn",
+      "available_balance": 0,
+      "availableBalance": 0,
+      "locked_balance": 0,
+      "lockedBalance": 0,
+      "currency": "KWD",
+      "created_at": "2026-09-14T11:23:18.926Z",
+      "createdAt": "2026-09-14T11:23:18.926Z",
+      "updated_at": "2026-09-24T04:27:46.483Z",
+      "updatedAt": "2026-09-24T04:27:46.483Z"
+    },
+    {
+      "id": "wal-usr-1789531670516-r21u",
+      "user_id": "usr-1789531670516-r21u",
+      "userId": "usr-1789531670516-r21u",
+      "available_balance": 0,
+      "availableBalance": 0,
+      "locked_balance": 0,
+      "lockedBalance": 0,
+      "currency": "KWD",
+      "created_at": "2026-09-16T04:07:50.516Z",
+      "createdAt": "2026-09-16T04:07:50.516Z",
+      "updated_at": "2026-09-16T04:07:50.518Z",
+      "updatedAt": "2026-09-16T04:07:50.518Z"
+    },
+    {
+      "id": "wal-usr-1789532010039-8psk",
+      "user_id": "usr-1789532010039-8psk",
+      "userId": "usr-1789532010039-8psk",
+      "available_balance": 0,
+      "availableBalance": 0,
+      "locked_balance": 0,
+      "lockedBalance": 0,
+      "currency": "KWD",
+      "created_at": "2026-09-16T04:13:30.039Z",
+      "createdAt": "2026-09-16T04:13:30.039Z",
+      "updated_at": "2026-09-16T04:13:34.214Z",
+      "updatedAt": "2026-09-16T04:13:34.214Z"
+    },
+    {
+      "id": "wal-usr-1789534105047-h12k",
+      "user_id": "usr-1789534105047-h12k",
+      "userId": "usr-1789534105047-h12k",
+      "available_balance": 0,
+      "availableBalance": 0,
+      "locked_balance": 0,
+      "lockedBalance": 0,
+      "currency": "KWD",
+      "created_at": "2026-09-16T04:48:25.047Z",
+      "createdAt": "2026-09-16T04:48:25.047Z",
+      "updated_at": "2026-09-16T04:59:02.691Z",
+      "updatedAt": "2026-09-16T04:59:02.691Z"
+    },
+    {
+      "id": "wal-usr-1789537431288-biwa",
+      "user_id": "usr-1789537431288-biwa",
+      "userId": "usr-1789537431288-biwa",
+      "available_balance": 0,
+      "availableBalance": 0,
+      "locked_balance": 0,
+      "lockedBalance": 0,
+      "currency": "KWD",
+      "created_at": "2026-09-16T05:43:51.288Z",
+      "createdAt": "2026-09-16T05:43:51.288Z",
+      "updated_at": "2026-09-16T15:32:01.935Z",
+      "updatedAt": "2026-09-16T15:32:01.935Z"
+    },
+    {
+      "id": "wal-usr-1789539736569-db6u",
+      "user_id": "usr-1789539736569-db6u",
+      "userId": "usr-1789539736569-db6u",
+      "available_balance": 0,
+      "availableBalance": 0,
+      "locked_balance": 0,
+      "lockedBalance": 0,
+      "currency": "KWD",
+      "created_at": "2026-09-16T06:22:16.568Z",
+      "createdAt": "2026-09-16T06:22:16.568Z",
+      "updated_at": "2026-09-16T15:32:01.935Z",
+      "updatedAt": "2026-09-16T15:32:01.935Z"
+    },
+    {
+      "id": "wal-usr-1789540860252-fhww",
+      "user_id": "usr-1789540860252-fhww",
+      "userId": "usr-1789540860252-fhww",
+      "available_balance": 0,
+      "availableBalance": 0,
+      "locked_balance": 0,
+      "lockedBalance": 0,
+      "currency": "KWD",
+      "created_at": "2026-09-16T06:41:00.252Z",
+      "createdAt": "2026-09-16T06:41:00.252Z",
+      "updated_at": "2026-09-16T15:32:01.935Z",
+      "updatedAt": "2026-09-16T15:32:01.935Z"
+    },
+    {
+      "id": "wal-usr-1789541199003-c736",
+      "user_id": "usr-1789541199003-c736",
+      "userId": "usr-1789541199003-c736",
+      "available_balance": 0,
+      "availableBalance": 0,
+      "locked_balance": 0,
+      "lockedBalance": 0,
+      "currency": "KWD",
+      "created_at": "2026-09-16T06:46:39.003Z",
+      "createdAt": "2026-09-16T06:46:39.003Z",
+      "updated_at": "2026-09-16T15:32:01.935Z",
+      "updatedAt": "2026-09-16T15:32:01.935Z"
+    },
+    {
+      "id": "wal-usr-1789541850986-gubc",
+      "user_id": "usr-1789541850986-gubc",
+      "userId": "usr-1789541850986-gubc",
+      "available_balance": 7.5,
+      "availableBalance": 7.5,
+      "locked_balance": 0,
+      "lockedBalance": 0,
+      "currency": "KWD",
+      "created_at": "2026-09-16T06:57:30.986Z",
+      "createdAt": "2026-09-16T06:57:30.986Z",
+      "updated_at": "2026-09-16T15:32:01.935Z",
+      "updatedAt": "2026-09-16T15:32:01.935Z"
+    },
+    {
+      "id": "wal-usr-1789541855610-77z5",
+      "user_id": "usr-1789541855610-77z5",
+      "userId": "usr-1789541855610-77z5",
+      "available_balance": 79.58,
+      "availableBalance": 79.58,
+      "locked_balance": 50,
+      "lockedBalance": 50,
+      "currency": "KWD",
+      "created_at": "2026-09-16T06:57:35.610Z",
+      "createdAt": "2026-09-16T06:57:35.610Z",
+      "updated_at": "2026-09-16T15:32:01.935Z",
+      "updatedAt": "2026-09-16T15:32:01.935Z"
+    },
+    {
+      "id": "wal-usr-1789571857076-8fyj",
+      "user_id": "usr-1789571857076-8fyj",
+      "userId": "usr-1789571857076-8fyj",
+      "available_balance": 0,
+      "availableBalance": 0,
+      "locked_balance": 0,
+      "lockedBalance": 0,
+      "currency": "KWD",
+      "created_at": "2026-09-16T15:17:37.076Z",
+      "createdAt": "2026-09-16T15:17:37.076Z",
+      "updated_at": "2026-09-24T04:27:46.483Z",
+      "updatedAt": "2026-09-24T04:27:46.483Z"
+    },
+    {
+      "id": "wal-usr-1789572733285-02z2",
+      "user_id": "usr-1789572733285-02z2",
+      "userId": "usr-1789572733285-02z2",
+      "available_balance": 15,
+      "availableBalance": 15,
+      "locked_balance": 20,
+      "lockedBalance": 20,
+      "currency": "KWD",
+      "created_at": "2026-09-16T15:32:13.285Z",
+      "createdAt": "2026-09-16T15:32:13.285Z",
+      "updated_at": "2026-09-16T15:32:13.349Z",
+      "updatedAt": "2026-09-16T15:32:13.349Z"
+    },
+    {
+      "id": "wal-usr-1789614000778-hq0j",
+      "user_id": "usr-1789614000778-hq0j",
+      "userId": "usr-1789614000778-hq0j",
+      "available_balance": 0,
+      "availableBalance": 0,
+      "locked_balance": 0,
+      "lockedBalance": 0,
+      "currency": "KWD",
+      "created_at": "2026-09-17T03:00:00.778Z",
+      "createdAt": "2026-09-17T03:00:00.778Z",
+      "updated_at": "2026-09-17T03:00:00.798Z",
+      "updatedAt": "2026-09-17T03:00:00.798Z"
+    },
+    {
+      "id": "wal-usr-1789614004967-6hm3",
+      "user_id": "usr-1789614004967-6hm3",
+      "userId": "usr-1789614004967-6hm3",
+      "available_balance": 0,
+      "availableBalance": 0,
+      "locked_balance": 0,
+      "lockedBalance": 0,
+      "currency": "KWD",
+      "created_at": "2026-09-17T03:00:04.967Z",
+      "createdAt": "2026-09-17T03:00:04.967Z",
+      "updated_at": "2026-09-17T03:00:04.969Z",
+      "updatedAt": "2026-09-17T03:00:04.969Z"
+    },
+    {
+      "id": "wal-usr-1789614144606-hz92",
+      "user_id": "usr-1789614144606-hz92",
+      "userId": "usr-1789614144606-hz92",
+      "available_balance": 0,
+      "availableBalance": 0,
+      "locked_balance": 0,
+      "lockedBalance": 0,
+      "currency": "KWD",
+      "created_at": "2026-09-17T03:02:24.606Z",
+      "createdAt": "2026-09-17T03:02:24.606Z",
+      "updated_at": "2026-09-17T03:02:24.631Z",
+      "updatedAt": "2026-09-17T03:02:24.631Z"
+    },
+    {
+      "id": "wal-usr-1789784092263-8b09",
+      "user_id": "usr-1789784092263-8b09",
+      "userId": "usr-1789784092263-8b09",
+      "available_balance": 0,
+      "availableBalance": 0,
+      "locked_balance": 0,
+      "lockedBalance": 0,
+      "currency": "KWD",
+      "created_at": "2026-09-19T02:14:52.263Z",
+      "createdAt": "2026-09-19T02:14:52.263Z",
+      "updated_at": "2026-09-19T02:14:59.271Z",
+      "updatedAt": "2026-09-19T02:14:59.271Z"
+    },
+    {
+      "id": "wal-usr-1789784906835-efh6",
+      "user_id": "usr-1789784906835-efh6",
+      "userId": "usr-1789784906835-efh6",
+      "available_balance": 0,
+      "availableBalance": 0,
+      "locked_balance": 0,
+      "lockedBalance": 0,
+      "currency": "KWD",
+      "created_at": "2026-09-19T02:28:26.836Z",
+      "createdAt": "2026-09-19T02:28:26.836Z",
+      "updated_at": "2026-09-24T04:27:46.483Z",
+      "updatedAt": "2026-09-24T04:27:46.483Z"
+    },
+    {
+      "id": "wal-usr-1790223976645-v1ms",
+      "user_id": "usr-1790223976645-v1ms",
+      "userId": "usr-1790223976645-v1ms",
+      "available_balance": 0,
+      "availableBalance": 0,
+      "locked_balance": 0,
+      "lockedBalance": 0,
+      "currency": "KWD",
+      "created_at": "2026-09-24T04:26:16.645Z",
+      "createdAt": "2026-09-24T04:26:16.645Z",
+      "updated_at": "2026-09-24T04:27:46.483Z",
+      "updatedAt": "2026-09-24T04:27:46.483Z"
+    }
+  ],
+  "sessions": [
+    {
+      "token": "usr-1789532010041-ac5d9421b09d037c82a42d389ae2a81d7af816643ee8b328",
+      "type": "user",
+      "userId": "usr-1789532010039-8psk",
+      "username": "sync_test_user_1",
+      "expiresAt": 1790136810041,
+      "createdAt": 1789532010041
+    },
+    {
+      "token": "adm-1789532285845-2ce764a8620f24365569d29037954383040d62f89e0cd2c1",
+      "type": "admin",
+      "username": "admin",
+      "expiresAt": 1789618685845,
+      "createdAt": 1789532285845
+    },
+    {
+      "token": "adm-1789532290443-78ebee5a1e14d96a8c8ca66b93756a1cd9199ed1d608a64c",
+      "type": "admin",
+      "username": "admin",
+      "expiresAt": 1789618690443,
+      "createdAt": 1789532290443
+    },
+    {
+      "token": "adm-1789534097960-e5438dc2d72476d3253a4e5d9a6ea5df63d1149f8fcc9ea7",
+      "type": "admin",
+      "username": "admin",
+      "expiresAt": 1789620497960,
+      "createdAt": 1789534097961
+    },
+    {
+      "token": "usr-1789534105049-9499c9f9cb907d05ab0f9eff69d4b45183b145358f00f93d",
+      "type": "user",
+      "userId": "usr-1789534105047-h12k",
+      "username": "investor_test",
+      "expiresAt": 1790138905049,
+      "createdAt": 1789534105049
+    },
+    {
+      "token": "usr-1789534106911-e01c7075c52a943798f090187bc5b84b4fcd059c7169077f",
+      "type": "user",
+      "userId": "usr-1789534105047-h12k",
+      "username": "investor_test",
+      "expiresAt": 1790138906911,
+      "createdAt": 1789534106911
+    },
+    {
+      "token": "adm-1789534329602-be3aadef4e2e945e6502da5308c14d2c753d54d2dcd93288",
+      "type": "admin",
+      "username": "admin",
+      "expiresAt": 1789620729602,
+      "createdAt": 1789534329602
+    },
+    {
+      "token": "adm-1789534727684-775a6b8424a51a8f702c1835d6a56c896f734e6db65b981c",
+      "type": "admin",
+      "username": "admin",
+      "expiresAt": 1789621127684,
+      "createdAt": 1789534727684
+    },
+    {
+      "token": "usr-1789366474203-2ou5",
+      "type": "user",
+      "userId": "usr-1789366474203-2ou5",
+      "username": "Abdullah",
+      "expiresAt": 1790139737870,
+      "createdAt": 1789534937870
+    },
+    {
+      "token": "adm-1789534958454-c6be8213a2326e7bfd2d348802bce13d764da08d0587d753",
+      "type": "admin",
+      "username": "admin",
+      "expiresAt": 1789621358454,
+      "createdAt": 1789534958454
+    },
+    {
+      "token": "adm-1789537244234-ea436532eeabd4703b3433d1578baddc0c31d9d633cbcb80",
+      "type": "admin",
+      "username": "admin",
+      "expiresAt": 1789623644234,
+      "createdAt": 1789537244234
+    },
+    {
+      "token": "usr-1789537431290-8ad6240242b5fc4196c2bd1d341feb5182e2e889108696f9",
+      "type": "user",
+      "userId": "usr-1789537431288-biwa",
+      "username": "testuser1",
+      "expiresAt": 1790142231290,
+      "createdAt": 1789537431290
+    },
+    {
+      "token": "usr-1789537436577-4fd2873c4194db71d0f018f511d1aa670b0788dbcf667016",
+      "type": "user",
+      "userId": "usr-1789537431288-biwa",
+      "username": "testuser1",
+      "expiresAt": 1790142236577,
+      "createdAt": 1789537436577
+    },
+    {
+      "token": "adm-1789537675738-a3736b632a8d8825e4c37f5612f81d9f883a13cc49a90751",
+      "type": "admin",
+      "username": "admin",
+      "expiresAt": 1789624075738,
+      "createdAt": 1789537675739
+    },
+    {
+      "token": "adm-1789537679214-589fa6d8c1d0fa914e0f5199b604047ef23c7f6f67a53b60",
+      "type": "admin",
+      "username": "admin",
+      "expiresAt": 1789624079214,
+      "createdAt": 1789537679214
+    },
+    {
+      "token": "usr-1789539736571-0e4699676b5b6ec4721ff2aaafb14e4e0e3d9a1f4c3f7546",
+      "type": "user",
+      "userId": "usr-1789539736569-db6u",
+      "username": "testuser99",
+      "expiresAt": 1790144536571,
+      "createdAt": 1789539736571
+    },
+    {
+      "token": "usr-1789539738520-2ec04cd50b70fface184bc257a0b95ed4bab64c5c964c67c",
+      "type": "user",
+      "userId": "usr-1789539736569-db6u",
+      "username": "testuser99",
+      "expiresAt": 1790144538520,
+      "createdAt": 1789539738520
+    },
+    {
+      "token": "adm-1789540857462-9b377ee7da277145ad1689f275bb62c651fb09addfd404af",
+      "type": "admin",
+      "username": "admin",
+      "expiresAt": 1789627257463,
+      "createdAt": 1789540857463
+    },
+    {
+      "token": "usr-1789540860256-6a3b08d58cd4c50e07cba21b7177974a66f09dd4f860faae",
+      "type": "user",
+      "userId": "usr-1789540860252-fhww",
+      "username": "testuser",
+      "expiresAt": 1790145660256,
+      "createdAt": 1789540860256
+    },
+    {
+      "token": "usr-1789540862019-28d20514e4eaf66bf5b251a11d69584809b9db6c7ec1ce30",
+      "type": "user",
+      "userId": "usr-1789540860252-fhww",
+      "username": "testuser",
+      "expiresAt": 1790145662019,
+      "createdAt": 1789540862019
+    },
+    {
+      "token": "usr-1789541199005-d9c44026bed8697b508c2d1d3b8d1283054157c97c33b387",
+      "type": "user",
+      "userId": "usr-1789541199003-c736",
+      "username": "globaltest1",
+      "expiresAt": 1790145999005,
+      "createdAt": 1789541199005
+    },
+    {
+      "token": "usr-1789541201049-ec57243740f88e34f08b9e81ff21b66c28df8f28c1b00108",
+      "type": "user",
+      "userId": "usr-1789541199003-c736",
+      "username": "globaltest1",
+      "expiresAt": 1790146001049,
+      "createdAt": 1789541201049
+    },
+    {
+      "token": "usr-1789541203580-a1b165e6e962e9b5ebc17b93e6a45c5540fb0c17909c9aba",
+      "type": "user",
+      "userId": "usr-1789541199003-c736",
+      "username": "globaltest1",
+      "expiresAt": 1790146003580,
+      "createdAt": 1789541203580
+    },
+    {
+      "token": "usr-1789541205669-d013ea520625a05702c8490308906f2f469ae5009de87c9a",
+      "type": "user",
+      "userId": "usr-1789541199003-c736",
+      "username": "globaltest1",
+      "expiresAt": 1790146005669,
+      "createdAt": 1789541205669
+    },
+    {
+      "token": "adm-1789541217463-61c86f98f149fef4c3204cdae29250efd0220992734b8b38",
+      "type": "admin",
+      "username": "admin",
+      "expiresAt": 1789627617463,
+      "createdAt": 1789541217463
+    },
+    {
+      "token": "adm-1789541219537-df9654279d933cdc26894b7c171ce867ab6df7b6640e696c",
+      "type": "admin",
+      "username": "admin",
+      "expiresAt": 1789627619537,
+      "createdAt": 1789541219537
+    },
+    {
+      "token": "usr-1789541226868-c9cadc1f7c0b44a2f81c8ea88091262cb20cb03f1b4b3dcd",
+      "type": "user",
+      "userId": "usr-1789541199003-c736",
+      "username": "globaltest1",
+      "expiresAt": 1790146026868,
+      "createdAt": 1789541226868
+    },
+    {
+      "token": "usr-1789541233099-53e6e9dfa7e59d1557b2ef0a4d6f89806a4af74b1a7b6741",
+      "type": "user",
+      "userId": "usr-1789366474203-2ou5",
+      "username": "Abdullah",
+      "expiresAt": 1790146033099,
+      "createdAt": 1789541233099
+    },
+    {
+      "token": "adm-1789541843634-60cbfbd35873784403e60c4ce90af256e5bfb6bb0c14f43e",
+      "type": "admin",
+      "username": "admin",
+      "expiresAt": 1789628243635,
+      "createdAt": 1789541843635
+    },
+    {
+      "token": "usr-1789541850988-3e43b0192902f1b7c4f2e7d5d416b7051922129c48158a19",
+      "type": "user",
+      "userId": "usr-1789541850986-gubc",
+      "username": "leader_user99",
+      "expiresAt": 1790146650988,
+      "createdAt": 1789541850989
+    },
+    {
+      "token": "usr-1789541855613-99d5d5ca10416aaa0f73cf62cbb8d9d4744abd7c62a61be7",
+      "type": "user",
+      "userId": "usr-1789541855610-77z5",
+      "username": "member_user99",
+      "expiresAt": 1790146655613,
+      "createdAt": 1789541855613
+    },
+    {
+      "token": "usr-1789571857080-ec8d91b5df829acfcd14b03a401635aa849678432ef42063",
+      "type": "user",
+      "userId": "usr-1789571857076-8fyj",
+      "username": "alia1",
+      "expiresAt": 1790176657080,
+      "createdAt": 1789571857080
+    },
+    {
+      "token": "adm-1789571907717-b751316ee82e479362774ec6e68a28a998d8c82998026094",
+      "type": "admin",
+      "username": "admin",
+      "expiresAt": 1789658307717,
+      "createdAt": 1789571907717
+    },
+    {
+      "token": "usr-1789572733286-e81ee766789e766648c3a823facbc66465196ca0d479cf49",
+      "type": "user",
+      "userId": "usr-1789572733285-02z2",
+      "username": "flowtest_temp",
+      "expiresAt": 1790177533287,
+      "createdAt": 1789572733287
+    },
+    {
+      "token": "usr-1789614000780-8ddc3d00843003b0e14da9be473c445fedd45a83fc3b3976",
+      "type": "user",
+      "userId": "usr-1789614000778-hq0j",
+      "username": "test_reg_1",
+      "expiresAt": 1790218800780,
+      "createdAt": 1789614000780
+    },
+    {
+      "token": "usr-1789614000797-43a9f1c1199e1e7957fd17fc17da9203ab146a071495cb66",
+      "type": "user",
+      "userId": "usr-1789614000778-hq0j",
+      "username": "test_reg_1",
+      "expiresAt": 1790218800797,
+      "createdAt": 1789614000797
+    },
+    {
+      "token": "usr-1789614004968-6133368826b78b166533d4a8766302aa6071cfa01d48d33a",
+      "type": "user",
+      "userId": "usr-1789614004967-6hm3",
+      "username": "test_reg_2",
+      "expiresAt": 1790218804968,
+      "createdAt": 1789614004968
+    },
+    {
+      "token": "usr-1789614144607-84222fab6beb937da76c9115fa4997d204bf7c3414ec5a1e",
+      "type": "user",
+      "userId": "usr-1789614144606-hz92",
+      "username": "user_4484",
+      "expiresAt": 1790218944607,
+      "createdAt": 1789614144607
+    },
+    {
+      "token": "usr-1789614144622-2e8ea71bc74414d32eeea25b20136035446556c0ad7348ee",
+      "type": "user",
+      "userId": "usr-1789614144606-hz92",
+      "username": "user_4484",
+      "expiresAt": 1790218944622,
+      "createdAt": 1789614144622
+    },
+    {
+      "token": "usr-1789614144630-f905a8e0eea7ef4b72935a94a075b381c776bc4c4845911e",
+      "type": "user",
+      "userId": "usr-1789614144606-hz92",
+      "username": "user_4484",
+      "expiresAt": 1790218944630,
+      "createdAt": 1789614144630
+    },
+    {
+      "token": "adm-master",
+      "type": "admin",
+      "username": "admin",
+      "expiresAt": 1790244695033,
+      "createdAt": 1789639895033
+    },
+    {
+      "token": "usr-1789784092266-a8777a35b24d132d67dbfa3443968cc196e50016c506f329",
+      "type": "user",
+      "userId": "usr-1789784092263-8b09",
+      "username": "testliveuser1",
+      "expiresAt": 1790388892266,
+      "createdAt": 1789784092266
+    },
+    {
+      "token": "adm-1790223874787-8c98149e88bc270aba7018e3cb50a7c377e8cdbe06d0808c",
+      "type": "admin",
+      "username": "admin",
+      "expiresAt": 1790310274787,
+      "createdAt": 1790223874788
+    },
+    {
+      "token": "usr-1790223976646-8a0217e990d3a17f1ec33ae8a77ad02d498c0dbe84a9c9be",
+      "type": "user",
+      "userId": "usr-1790223976645-v1ms",
+      "username": "liveuser77",
+      "expiresAt": 1790828776646,
+      "createdAt": 1790223976646
+    },
+    {
+      "token": "adm-1790224031582-90b85e828e267fd0b7fc2ed4bd106431a55082419ca10e0f",
+      "type": "admin",
+      "username": "admin",
+      "expiresAt": 1790310431582,
+      "createdAt": 1790224031582
+    },
+    {
+      "token": "adm-1790224108235-4712fad542c140a6b725221b763ffb105ba6646a09a9739a",
+      "type": "admin",
+      "username": "admin",
+      "expiresAt": 1790310508235,
+      "createdAt": 1790224108235
+    }
+  ]
+}
